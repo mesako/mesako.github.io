@@ -11,11 +11,11 @@ en: &DEFAULT_EN
     - title: "About"
       section: about
     - title: "Projects"
-      section: portfolio
+      section: projects
     - title: "Experience"
-      section: timeline
+      section: experience
     - title: "Melissa E. Ko"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: mesako.github.io
 en-US:
   <<: *DEFAULT_EN
 en-CA:
