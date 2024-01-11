@@ -8,9 +8,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Melissa E. Ko
-    text: Analyst. Educator. Advocate.
-    button: Learn about me
+    title: "Melissa E. Ko"
+    text: "Analyst. Educator. Advocate."
+    button: "Learn about me"
     buttonlink: "#about"
 
   about:
