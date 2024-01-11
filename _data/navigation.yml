@@ -14,8 +14,8 @@ en: &DEFAULT_EN
       section: projects
     - title: "Experience"
       section: experience
-    - title: "Melissa E. Ko"
-      url: mesako.github.io
+    - title: "Theme Source"
+      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
