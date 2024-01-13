@@ -18,7 +18,6 @@ en: &DEFAULT_EN
 
   services:
     title: "What I Do"
-    text: "Lorem ipsum"
     section: services
     list:
       - title: "Analyst."
@@ -32,13 +31,13 @@ en: &DEFAULT_EN
         icon: fas fa-universal-access
 
   portfolio:
-    title: "Portfolio"
+    title: "My Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "My Experiences"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
