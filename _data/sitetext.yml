@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: "Learn more about me"
     buttonlink: "#services"
 
+  about:
+    title: "My Background"
+    # text: "Lorem ipsum dolor sit amet consectetur."
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
+
   services:
     title: "What I Do"
     # text: "Lorem ipsum dolor sit amet consectetur."
@@ -67,12 +73,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "My Background"
-    # text: "Lorem ipsum dolor sit amet consectetur."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   team:
     title: "Let's Connect"
