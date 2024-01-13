@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "What I Do"
     text: "Lorem ipsum"
     section: services
     list:
@@ -28,8 +28,8 @@ en: &DEFAULT_EN
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-book
       - title: "Advocate."
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-universal-access
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-universal-access
 
   portfolio:
     title: "Portfolio"
