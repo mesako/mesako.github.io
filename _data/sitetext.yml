@@ -18,6 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "What I Do"
+    # text: "Lorem ipsum dolor sit amet consectetur."
     section: services
     list:
       - title: "Analyst."
@@ -32,13 +33,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "My Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    # text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "My Experiences"
-    text: "Lorem ipsum timeline"
+    # text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -69,11 +70,13 @@ en: &DEFAULT_EN
 
   about:
     title: "My Background"
+    # text: "Lorem ipsum dolor sit amet consectetur."
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   team:
     title: "Let's Connect"
+    # text: "Lorem ipsum dolor sit amet consectetur."
     section: team
     people:
       - name: "Melissa E. Ko"
