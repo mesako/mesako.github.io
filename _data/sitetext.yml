@@ -10,10 +10,10 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+  header:.
+    title: "Melissa E. Ko, PhD"
+    text: "Analyst. Educator. Advocate."
+    button: "Learn more about me"
     buttonlink: "#services"
 
   services:
