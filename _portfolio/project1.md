@@ -12,7 +12,7 @@ caption:
 Lorem ipsum.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Project
-- Category: Project
+- When: January 2017
+- Who: Project
+- What: Project
 
