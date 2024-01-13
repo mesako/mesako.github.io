@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "Melissa E. Ko, PhD"
-    text: "Analyst. Educator. Advocate."
+    title: "Assessment & Curriculum Design Specialist at UC Berkeley"
+    text: "Melissa E. Ko, PhD"
     button: "Learn more about me"
     buttonlink: "#services"
 
@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Analyst."
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-chart-line #find more at https://fontawesome.com/icons
+      - title: "Educator."
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-book
+      - title: "Advocate."
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-universal-access
 
   portfolio:
     title: "Portfolio"
