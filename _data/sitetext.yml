@@ -14,14 +14,8 @@ en: &DEFAULT_EN
     title: "This website is under construction."
 #    title: "Assessment & Curriculum Design Specialist at UC Berkeley"
     text: "Melissa E. Ko, PhD"
-    button: "Learn more about me"
-    buttonlink: "#services"
-
-  about:
-    title: "My Background"
-    # text: "Lorem ipsum dolor sit amet consectetur."
-    body: "Lorem ipsum dolor sit amet."
-    section: about
+    button: "Learn about my work"
+    buttonlink: "#portfolio"
 
   services:
     title: "What I Do"
