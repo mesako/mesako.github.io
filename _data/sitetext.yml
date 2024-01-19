@@ -78,10 +78,12 @@ en: &DEFAULT_EN
         role: "Assessment & Curriculum Development Specialist"
         image: assets/img/team/500x500.jpg
         social:
-          - url: "https://github.dev/mesako/"
-            icon: fab fa-github
+          - url: "mailto:mesako@berkeley.edu"
+            icon: fab fa-envelope
           - url: "https://www.linkedin.com/in/mesako/"
             icon: fab fa-linkedin-in
+          - url: "https://github.dev/mesako/"
+            icon: fab fa-github
 
   footer:
     legal: "Privacy Policy"
