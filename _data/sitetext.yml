@@ -20,7 +20,7 @@ en: &DEFAULT_EN
   about:
     title: "My Background"
     # text: "Lorem ipsum dolor sit amet consectetur."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Lorem ipsum dolor sit amet."
     section: about
 
   services:
@@ -29,13 +29,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Analyst."
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Lorem ipsum dolor sit amet."
         icon: fas fa-chart-line #find more at https://fontawesome.com/icons
       - title: "Educator."
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Lorem ipsum dolor sit amet."
         icon: fas fa-book
       - title: "Advocate."
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Lorem ipsum dolor sit amet."
         icon: fas fa-universal-access
 
   portfolio:
@@ -51,29 +51,29 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Lorem ipsum"
+        year: "20XX-20XX"
+        desc: "Lorem ipsum dolor sit amet."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Lorem ipsum"
+        year: "20XX-20XX"
+        desc: "Lorem ipsum dolor sit amet."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Lorem ipsum"
+        year: "20XX-20XX"
+        desc: "Lorem ipsum dolor sit amet."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Lorem ipsum"
+        year: "20XX-20XX"
+        desc: "Lorem ipsum dolor sit amet."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Lorem ipsum"
 
   team:
     title: "Let's Connect"
@@ -84,9 +84,9 @@ en: &DEFAULT_EN
         role: "Assessment & Curriculum Development Specialist"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://github.com
+          - url: "https://github.dev/mesako/"
             icon: fab fa-github
-          - url: https://linkedin.com
+          - url: "https://www.linkedin.com/in/mesako/"
             icon: fab fa-linkedin-in
 
   footer:
