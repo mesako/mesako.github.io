@@ -59,17 +59,17 @@ en: &DEFAULT_EN
       - title: "Stanford"
         year: "2018-2020"
         desc: "Lecturer and researcher position, focused on introductory studies and general STEM education."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/teaching.jpg
         alt: image alt text
       - title: "Stanford"
         year: "2020-2021"
         desc: "Embedded curricular development and research in the Bioengineering department."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/biologyed.jpg
         alt:
       - title: "UC Berkeley"
         year: "2022-now"
         desc: "Assessment and faculty development professional."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/berkeley.jpg
         alt:
         # you can enforce the alignment
         align: center
