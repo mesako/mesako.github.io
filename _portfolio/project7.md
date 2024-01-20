@@ -15,5 +15,5 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Where: UC Berkeley
 - What: Project
 - Collaborators: ?
-- Category: Faculty Development
+- Category: Consulting
 
