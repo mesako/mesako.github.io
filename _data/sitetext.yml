@@ -49,12 +49,12 @@ en: &DEFAULT_EN
       - title: "MIT"
         year: "2012"
         desc: "Undergraduate studies in biology, volunteer teaching, and educational outreach."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/mit.jpg
         alt:
       - title: "Stanford"
         year: "2018"
         desc: "Graduate studies in computational cancer biology, college instruction, and mentorship."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/stanford.jpg
         alt:
       - title: "Stanford"
         year: "2018-2020"
