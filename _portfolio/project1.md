@@ -1,18 +1,18 @@
 ---
-title: Project Project
+title: Program-level Learning Assessment
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Image alt text
 
 caption:
-  title: Project
-  subtitle: Project More
+  title: Learning Assessment
+  subtitle: Program-level
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Lorem ipsum.
 
 {:.list-inline}
-- When: January 2017
-- Who: Project
+- Where: UC Berkeley
 - What: Project
+- Category: Assessment
 
