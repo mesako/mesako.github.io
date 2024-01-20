@@ -1,12 +1,12 @@
 ---
-title: Advancing SoTL on Campus
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Presidential Chair Fellowship Program
+subtitle: How do we encourage research inquiry into processes of teaching & learning?
 image: assets/img/portfolio/placeholderimage.jpg
 alt: Image alt text
 
 caption:
-  title: SoTL
-  subtitle: Campus-wide
+  title: Scholarship of Teaching & Learning
+  subtitle: Starting a Campus-wide Movement
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
 Lorem ipsum.

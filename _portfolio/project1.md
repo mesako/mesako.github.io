@@ -1,12 +1,12 @@
 ---
 title: Program-level Learning Assessment
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: How can we identify the strengths and weaknesses of a departmental curriculum?
 image: assets/img/portfolio/placeholderimage.jpg
 alt: Image alt text
 
 caption:
   title: Learning Assessment
-  subtitle: Program-level
+  subtitle: Analyzing Data at the Program-level
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
 Lorem ipsum.

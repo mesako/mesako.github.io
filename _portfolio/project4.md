@@ -1,12 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Equitable Grading Approaches in STEM Courses
+subtitle: How do we value student work in a way that promotes equitable learning?
 image: assets/img/portfolio/placeholderimage.jpg
 alt: image alt
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Alternative Grading
+  subtitle: Designing Non-Traditional Syllabi and Assessments
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
 Lorem ipsum.
