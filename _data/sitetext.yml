@@ -75,7 +75,7 @@ en: &DEFAULT_EN
     people:
       - name: "Melissa E. Ko"
         role: "Assessment & Curriculum Development Specialist"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/web-headshot.jpg
         social:
           - url: "mailto:mesako@berkeley.edu"
             icon: far fa-envelope
