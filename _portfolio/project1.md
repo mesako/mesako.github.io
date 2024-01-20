@@ -14,5 +14,6 @@ Lorem ipsum.
 {:.list-inline}
 - Where: UC Berkeley
 - What: Project
+- Collaborators: ?
 - Category: Assessment
 
