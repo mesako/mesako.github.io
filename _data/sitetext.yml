@@ -48,12 +48,12 @@ en: &DEFAULT_EN
     events:
       - title: "MIT SB Program"
         year: "2012"
-        desc: "Undergraduate studies in biology, volunteer teaching, and educational outreach."
+        desc: "Undergraduate studies in biology. Volunteer teaching and educational outreach."
         image: assets/img/timeline/mit.jpg
         alt:
       - title: "Stanford PhD Program"
         year: "2018"
-        desc: "Graduate studies in computational cancer biology, college instruction, and mentorship."
+        desc: "Graduate studies in computational cancer biology. College instruction and mentorship."
         image: assets/img/timeline/stanford.jpg
         alt:
       - title: "Stanford Introductory Studies"
@@ -78,7 +78,7 @@ en: &DEFAULT_EN
         alt:
       - title: "UC Berkeley CTL"
         year: "2022-now"
-        desc: "Assessment and faculty development professional with growing SoTL research agenda."
+        desc: "Assessment professional and faculty developer involved in SoTL research."
         image: assets/img/timeline/berkeley.jpg
         alt:
         # you can enforce the alignment
