@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Stanford"
         year: "2018-2020"
-        desc: "Lecturer and researcher position, focused on introductory studies and general STEM education."
+        desc: "Lecturer and researcher position, focused on introductory STEM courses."
         image: assets/img/timeline/teaching.jpg
         alt: image alt text
       - title: "Stanford"
