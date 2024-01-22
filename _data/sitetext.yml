@@ -46,29 +46,39 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "MIT"
+      - title: "MIT SB Program"
         year: "2012"
         desc: "Undergraduate studies in biology, volunteer teaching, and educational outreach."
         image: assets/img/timeline/mit.jpg
         alt:
-      - title: "Stanford"
+      - title: "Stanford PhD Program"
         year: "2018"
         desc: "Graduate studies in computational cancer biology, college instruction, and mentorship."
         image: assets/img/timeline/stanford.jpg
         alt:
-      - title: "Stanford"
+      - title: "Stanford Introductory Studies"
         year: "2018-2020"
-        desc: "Lecturer and researcher position, focused on introductory STEM courses."
+        desc: "Lecturer position focused on introductory courses."
         image: assets/img/timeline/teaching.jpg
         alt: image alt text
-      - title: "Stanford"
+      - title: "Stanford CTL"
+        year: "2018-2021"
+        desc: "Ongoing lecturer consultant focused on inclusive, equitable teaching."
+        image: assets/img/timeline/teaching.jpg
+        alt: image alt text
+      - title: "Foothill College"
+        year: "2018-2022"
+        desc: "Part-time instructor in gateway STEM courses."
+        image: assets/img/timeline/teaching.jpg
+        alt: image alt text
+      - title: "Stanford Bioengineering"
         year: "2020-2021"
-        desc: "Embedded curricular development and research in the Bioengineering department."
+        desc: "Embedded curriculuar development and educational research in the department."
         image: assets/img/timeline/biologyed.jpg
         alt:
-      - title: "UC Berkeley"
+      - title: "UC Berkeley CTL"
         year: "2022-now"
-        desc: "Assessment and faculty development professional."
+        desc: "Assessment and faculty development professional with growing research/SoTL agenda."
         image: assets/img/timeline/berkeley.jpg
         alt:
         # you can enforce the alignment
