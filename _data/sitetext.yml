@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Analyst."
-        desc: "My background in research, computational methods, and applied data science informs how I approach education. I use tools like R, Google sheets, Python, etc. to analyze and visualize datasets related to teaching and learning experiences."
+        desc: "My background in research, computational methods, and applied data science informs how I approach education. I use tools like R programming to analyze and visualize datasets related to teaching and learning experiences."
         icon: fas fa-chart-line #find more at https://fontawesome.com/icons
       - title: "Educator."
         desc: "My experiences as a college instructor frame how I approach my day-to-day work in faculty development. I apply backward design to create learner-centered engagements for students, staff, and faculty alike."
