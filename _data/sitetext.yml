@@ -64,12 +64,12 @@ en: &DEFAULT_EN
       - title: "Stanford CTL"
         year: "2018-2021"
         desc: "Ongoing part-time consultant focused on inclusive, equitable teaching."
-        image: assets/img/timeline/teaching.jpg
+        image: assets/img/timeline/inclusion.jpg
         alt: image alt text
       - title: "Foothill College"
         year: "2018-2022"
         desc: "Part-time instructor designing gateway courses in the Biology department."
-        image: assets/img/timeline/teaching.jpg
+        image: assets/img/timeline/introbio.jpg
         alt: image alt text
       - title: "Stanford Bioengineering"
         year: "2020-2021"
