@@ -6,7 +6,7 @@ alt: image alt
 
 caption:
   title: Alternative Grading
-  subtitle: Designing Non-Traditional Syllabi and Assessments
+  subtitle: Designing Innovative Course Assessments
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
 Lorem ipsum.
