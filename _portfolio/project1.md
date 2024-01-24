@@ -1,5 +1,5 @@
 ---
-title: Program-level Learning Assessment
+title: Academic Program Review
 subtitle: How can we identify the strengths and weaknesses of a departmental curriculum?
 image: assets/img/portfolio/placeholderimage.jpg
 alt: Image alt text
@@ -13,7 +13,7 @@ Lorem ipsum.
 
 {:.list-inline}
 - Where: UC Berkeley
-- What: Project
+- What: Service
 - Collaborators: ?
 - Category: Assessment
 
