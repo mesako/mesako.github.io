@@ -15,4 +15,4 @@ Lorem ipsum.
 - Where: UC Berkeley
 - What: Project
 - Collaborators: [Specific Departments](https://teaching.berkeley.edu/programs/presidential-chair-fellows-grant-program)
-- Category: Research
+- Category: Research, Faculty Development
