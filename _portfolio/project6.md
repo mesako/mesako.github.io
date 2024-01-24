@@ -1,5 +1,5 @@
 ---
-title: Research and Scholarship at the Intersection of Assessment and Faculty Development
+title: Scholarship at the Intersection of Assessment and Faculty Development
 subtitle: How can we examine policies and structures within higher education that contribute to inequities?
 image: assets/img/portfolio/placeholderimage.jpg
 alt: 
