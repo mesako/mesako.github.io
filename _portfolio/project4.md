@@ -14,6 +14,6 @@ Lorem ipsum.
 {:.list-inline}
 - Where: Foothill College
 - What: Courses
-- Collaborators: ?
+- Collaborators: N/A
 - Category: Teaching
 
