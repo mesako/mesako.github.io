@@ -14,6 +14,6 @@ Lorem ipsum.
 {:.list-inline}
 - Where: NA
 - What: Service
-- Collaborators: ?
-- Category: Consulting
+- Collaborators: [Peralta Community College District](https://www.peralta.edu/), [Searle Center at Northwestern University](https://searle.northwestern.edu/)
+- Category: Consulting, Faculty Development
 
