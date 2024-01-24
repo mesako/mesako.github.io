@@ -1,5 +1,5 @@
 ---
-title: Presidential Chair Fellowship Program
+title: Presidential Chair Fellows Program
 subtitle: How do we encourage research inquiry into processes of teaching & learning?
 image: assets/img/portfolio/placeholderimage.jpg
 alt: Image alt text
@@ -14,5 +14,5 @@ Lorem ipsum.
 {:.list-inline}
 - Where: UC Berkeley
 - What: Project
-- Collaborators: ?
+- Collaborators: [Specific Departments](https://teaching.berkeley.edu/programs/presidential-chair-fellows-grant-program)
 - Category: Research
