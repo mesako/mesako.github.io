@@ -14,5 +14,4 @@ Lorem ipsum.
 {:.list-inline}
 - Where: UC Berkeley
 - What: Service
-- Collaborators: N/A
 - Category: Faculty Development
