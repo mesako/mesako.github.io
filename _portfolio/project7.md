@@ -14,6 +14,6 @@ Lorem ipsum.
 {:.list-inline}
 - Where: NA
 - What: Project
-- Collaborators: ?
-- Category: Consulting
+- Collaborators: [VMware Women's Leadership Innovation Lab at Stanford University](https://womensleadership.stanford.edu/)
+- Category: Consulting, Research
 
