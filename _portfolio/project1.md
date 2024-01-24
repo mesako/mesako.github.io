@@ -14,6 +14,6 @@ Lorem ipsum.
 {:.list-inline}
 - Where: UC Berkeley
 - What: Service
-- Collaborators: ?
+- Collaborators: [Division of Academic Planning](https://vpap.berkeley.edu/)
 - Category: Assessment
 
