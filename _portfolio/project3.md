@@ -15,4 +15,4 @@ Lorem ipsum.
 - Where: UC Berkeley
 - What: Project
 - Collaborators: [UCSB OTL](https://otl.ucsb.edu/), [UCI DTEI](https://dtei.uci.edu/), and [UC Online](https://www.ucop.edu/educational-innovations-services/programs-and-initiatives/index.html)
-- Category: Research
+- Category: Faculty Development, Research
