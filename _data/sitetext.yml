@@ -41,7 +41,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "My Experiences"
-    # text: "Lorem ipsum timeline"
+    text: "My professional roles have spanned research, teaching, and adminstration."
     section: timeline
     # left is the default
     #start_align: "left"
