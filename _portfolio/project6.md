@@ -9,7 +9,6 @@ caption:
   subtitle: Digging into Assessment and Learning Topics
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
-Lorem ipsum.
 
 See some examples of my work:
 
