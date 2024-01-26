@@ -78,7 +78,7 @@
     padding: 75px 0;
     text-align: center;
     h2 {
-      font-size: 2em;
+      font-size: 2.5em;
       margin-bottom: 15px;
     }
     p {
@@ -91,6 +91,7 @@
       @include serif-font;
     }
     ul.list-inline {
+      font-size: 20px;
       margin-top: 0;
       margin-bottom: 20px;
     }
