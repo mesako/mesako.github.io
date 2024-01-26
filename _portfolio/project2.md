@@ -11,6 +11,11 @@ caption:
 ---
 Lorem ipsum.
 
+See some examples of my work:
+
+[The Current Landscape of Faculty Developers in Scholarship of Teaching and Learning Across Diverse Campuses in the United States](https://link.springer.com/article/10.1007/s10755-023-09666-5)
+
+
 {:.list-inline}
 - **Where:** UC Berkeley
 - **What:** Project
