@@ -9,7 +9,6 @@ caption:
   subtitle: Inspiring Instructors to Think Differently
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
-Lorem ipsum.
 
 See some examples of my work:
 
