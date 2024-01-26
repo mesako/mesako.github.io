@@ -9,7 +9,6 @@ caption:
   subtitle: Measuring the Work of a CTL
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
-Lorem ipsum.
 
 See some examples of my work:
 
