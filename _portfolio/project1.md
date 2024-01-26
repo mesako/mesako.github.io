@@ -10,6 +10,10 @@ caption:
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
 
+See some examples of my work:
+
+[Formative Assessment of Teaching](https://teaching.berkeley.edu/teaching-guides/assessing-learning/formative-assessment-teaching)
+
 {:.list-inline}
 - **Where:** UC Berkeley
 - **What:** Service
