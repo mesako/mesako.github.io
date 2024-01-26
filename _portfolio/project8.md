@@ -1,7 +1,7 @@
 ---
 title: Faculty Development Consulting in Alternative Grading Schema
 subtitle: What does it mean to let go of traditions when we assess student learning?
-image: assets/img/portfolio/placeholderimage.jpg
+image: assets/img/portfolio/speaking.jpg
 alt: 
 
 caption:
