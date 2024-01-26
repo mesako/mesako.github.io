@@ -1,13 +1,13 @@
 ---
 title: Scholarship at the Intersection of Assessment and Faculty Development
 subtitle: How can we examine policies and structures within higher education that contribute to inequities?
-image: assets/img/portfolio/placeholderimage.jpg
+image: assets/img/portfolio/presenting.png
 alt: 
 
 caption:
   title: Thought Leadership
   subtitle: Digging into Assessment and Learning Topics
-  thumbnail: assets/img/portfolio/presenting.jpg
+  thumbnail: assets/img/portfolio/presenting.png
 ---
 
 See some examples of my work:
