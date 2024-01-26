@@ -3,7 +3,15 @@
   margin: 15px 0;
   text-transform: none;
 } 
-p.service-heading {
+.service {
+  h3.service-heading {
+  font-size: 40px;
+  }
+  h4.service-heading {
+  font-size: 22px;
+  }
+  p {
   font-size: 20px;
+  }
 }
 
