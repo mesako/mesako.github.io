@@ -9,7 +9,6 @@ caption:
   subtitle: Analyzing Data at the Program-level
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
-Lorem ipsum.
 
 {:.list-inline}
 - **Where:** UC Berkeley
