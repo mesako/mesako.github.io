@@ -9,10 +9,9 @@ caption:
   subtitle: Designing Innovative Course Assessments
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
-Lorem ipsum.
 
 {:.list-inline}
-- Where: Foothill College
-- What: Courses
-- Category: Teaching
+- **Where:** Foothill College
+- **What:** Courses
+- **Category:** Teaching
 
