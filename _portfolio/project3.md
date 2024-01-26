@@ -7,7 +7,7 @@ alt: image alt
 caption:
   title: Equity-Oriented Instructor Training
   subtitle: Building UC-wide Professional Development
-  thumbnail: assets/img/portfolio/placeholderimage.jpg
+  thumbnail: assets/img/portfolio/equity.jpg
 ---
 
 See some examples of my work:
