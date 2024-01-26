@@ -12,11 +12,17 @@ caption:
 Lorem ipsum.
 
 See some examples of my work:
-* [Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
 
+[Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
+
+[IDEAL Pedagogy Program at Stanford CTL](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/ideal-pedagogy)
+
+[Teaching Practices Equity and Inclusion Rubric with Stanford CTL](bit.ly/teaching-equity-rubric)
+
+[Course Design Equity and Inclusion Rubric with Stanford Bioengineering Department](bit.ly/course-equity-rubric)
 
 {:.list-inline}
-- Where: UC Berkeley
-- What: Project
-- Collaborators: [UCSB OTL](https://otl.ucsb.edu/), [UCI DTEI](https://dtei.uci.edu/), and [UC Online](https://www.ucop.edu/educational-innovations-services/programs-and-initiatives/index.html)
-- Category: Faculty Development, Research
+- **Where:** UC Berkeley
+- **What:** Project
+- **Collaborators:** [UCSB OTL](https://otl.ucsb.edu/), [UCI DTEI](https://dtei.uci.edu/), and [UC Online](https://www.ucop.edu/educational-innovations-services/programs-and-initiatives/index.html)
+- **Category:** Faculty Development, Research
