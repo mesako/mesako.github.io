@@ -12,7 +12,7 @@ caption:
 
 See some examples of my work:
 
-[Revolutionizing Grading: Implications on Power, Agency, and Equity](https://peer.asee.org/revolutionizing-grading-implications-on-power-agency-and-equity)
+["Revolutionizing Grading: Implications on Power, Agency, and Equity"](https://peer.asee.org/revolutionizing-grading-implications-on-power-agency-and-equity)
 
 {:.list-inline}
 - **What:** Service
