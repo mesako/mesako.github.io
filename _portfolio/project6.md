@@ -12,9 +12,11 @@ caption:
 
 See some examples of my work:
 
-[Broadening Participation in Biology Education Research: A role for affinity groups in promoting social connectivity, self-efficacy, and belonging](https://www.lifescied.org/doi/full/10.1187/cbe.23-01-0004)
+"Dispatches from the Interface: Assessment Professionals in the CTL" (submitted)
 
-[Chronicling the Journey of the Society for the Advancement in Biology Education Research (SABER) in its Effort to Become Antiracist: From Acknowledgement to Action](https://www.frontiersin.org/articles/10.3389/feduc.2021.780401/full)
+["Broadening Participation in Biology Education Research: A role for affinity groups in promoting social connectivity, self-efficacy, and belonging"](https://www.lifescied.org/doi/full/10.1187/cbe.23-01-0004)
+
+["Chronicling the Journey of the Society for the Advancement in Biology Education Research (SABER) in its Effort to Become Antiracist: From Acknowledgement to Action"](https://www.frontiersin.org/articles/10.3389/feduc.2021.780401/full)
 
 {:.list-inline}
 - **Where:** UC Berkeley
