@@ -9,7 +9,6 @@ caption:
   subtitle: Starting a Campus-wide Movement
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
-Lorem ipsum.
 
 See some examples of my work:
 
