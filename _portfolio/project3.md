@@ -1,7 +1,7 @@
 ---
 title: DEI&A in Teaching and Learning Online Modules
 subtitle: How can we advance diversity, equity, inclusion, and accessibilty in teaching and learning through shared resources?
-image: assets/img/portfolio/placeholderimage.jpg
+image: assets/img/portfolio/equity.jpg
 alt: image alt
 
 caption:
