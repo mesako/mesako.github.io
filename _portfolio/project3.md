@@ -16,9 +16,9 @@ See some examples of my work:
 
 [IDEAL Pedagogy Program with Stanford CTL](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/ideal-pedagogy)
 
-[Teaching Practices Equity and Inclusion Rubric with Stanford CTL](bit.ly/teaching-equity-rubric)
+[Teaching Practices Equity and Inclusion Rubric with Stanford CTL](https://bit.ly/teaching-equity-rubric)
 
-[Course Design Equity and Inclusion Rubric with Stanford Bioengineering Department](bit.ly/course-equity-rubric)
+[Course Design Equity and Inclusion Rubric with Stanford Bioengineering Department](https://bit.ly/course-equity-rubric)
 
 {:.list-inline}
 - **Where:** UC Berkeley
