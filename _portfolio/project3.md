@@ -12,9 +12,9 @@ caption:
 
 See some examples of my work:
 
-[Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
+["Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy"](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
 
-[IDEAL Pedagogy Program at Stanford CTL](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/ideal-pedagogy)
+[IDEAL Pedagogy Program with Stanford CTL](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/ideal-pedagogy)
 
 [Teaching Practices Equity and Inclusion Rubric with Stanford CTL](bit.ly/teaching-equity-rubric)
 
