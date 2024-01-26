@@ -9,7 +9,6 @@ caption:
   subtitle: Empowering Quantitative Insights
   thumbnail: assets/img/portfolio/placeholderimage.jpg
 ---
-Lorem ipsum.
 
 See some examples of my work:
 
