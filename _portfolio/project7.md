@@ -7,7 +7,7 @@ alt:
 caption:
   title: Data Visualizations
   subtitle: Empowering Quantitative Insights
-  thumbnail: assets/img/portfolio/placeholderimage.jpg
+  thumbnail: assets/img/portfolio/visualizing.jpg
 ---
 
 See some examples of my work:
