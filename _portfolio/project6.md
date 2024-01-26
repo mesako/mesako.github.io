@@ -11,6 +11,10 @@ caption:
 ---
 Lorem ipsum.
 
+See some examples of my work:
+* [Broadening Participation in Biology Education Research: A role for affinity groups in promoting social connectivity, self-efficacy, and belonging](https://www.lifescied.org/doi/full/10.1187/cbe.23-01-0004)
+* [The Current Landscape of Faculty Developers in Scholarship of Teaching and Learning Across Diverse Campuses in the United States](https://link.springer.com/article/10.1007/s10755-023-09666-5)
+
 {:.list-inline}
 - Where: UC Berkeley
 - What: Project
