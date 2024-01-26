@@ -12,11 +12,11 @@ caption:
 
 See some examples of my work:
 
-[Multi-omic single-cell snapshots reveal multiple independent trajectories to drug tolerance in a melanoma cell line](https://www.nature.com/articles/s41467-020-15956-9)
+["Multi-omic single-cell snapshots reveal multiple independent trajectories to drug tolerance in a melanoma cell line"](https://www.nature.com/articles/s41467-020-15956-9)
 
-[Deep profiling of apoptotic pathways with mass cytometry identifies a synergistic drug combination for killing myeloma cells](https://www.nature.com/articles/s41418-020-0498-z)
+["Deep profiling of apoptotic pathways with mass cytometry identifies a synergistic drug combination for killing myeloma cells"](https://www.nature.com/articles/s41418-020-0498-z)
 
-[FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets](https://www.nature.com/articles/s41596-019-0246-3)
+["FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets"](https://www.nature.com/articles/s41596-019-0246-3)
 
 {:.list-inline}
 - **What:** Project
