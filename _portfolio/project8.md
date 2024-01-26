@@ -11,9 +11,13 @@ caption:
 ---
 Lorem ipsum.
 
+See some examples of my work:
+
+[Revolutionizing Grading: Implications on Power, Agency, and Equity](https://peer.asee.org/revolutionizing-grading-implications-on-power-agency-and-equity)
+
 {:.list-inline}
-- Where: NA
-- What: Service
-- Collaborators: [Peralta Community College District](https://www.peralta.edu/), [Searle Center at Northwestern University](https://searle.northwestern.edu/)
-- Category: Consulting, Faculty Development
+- **Where:** NA
+- **What:** Service
+- **Collaborators:** [Peralta Community College District](https://www.peralta.edu/), [Searle Center at Northwestern University](https://searle.northwestern.edu/)
+- **Category:** Consulting, Faculty Development
 
