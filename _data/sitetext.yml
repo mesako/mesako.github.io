@@ -73,7 +73,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Stanford Bioengineering"
         year: "2020-2021"
-        desc: "Embedded curriculuar development and educational research in the department."
+        desc: "Embedded curricular development and educational research in the department."
         image: assets/img/timeline/biologyed.jpg
         alt:
       - title: "UC Berkeley CTL"
