@@ -12,7 +12,7 @@ caption:
 Lorem ipsum.
 
 {:.list-inline}
-- Where: UC Berkeley
-- What: Project
-- Collaborators: [Specific Departments](https://teaching.berkeley.edu/programs/presidential-chair-fellows-grant-program)
-- Category: Research, Faculty Development
+- **Where:** UC Berkeley
+- **What:** Project
+- **Collaborators:** [Specific Departments](https://teaching.berkeley.edu/programs/presidential-chair-fellows-grant-program)
+- **Category:** Research, Faculty Development
