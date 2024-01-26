@@ -12,6 +12,8 @@ caption:
 
 See some examples of my work:
 
+[Presidential Chair Fellows Grant Program](https://teaching.berkeley.edu/programs/presidential-chair-fellows-grant-program)
+
 [The Current Landscape of Faculty Developers in Scholarship of Teaching and Learning Across Diverse Campuses in the United States](https://link.springer.com/article/10.1007/s10755-023-09666-5)
 
 
