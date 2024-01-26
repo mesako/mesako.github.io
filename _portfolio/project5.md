@@ -11,6 +11,9 @@ caption:
 ---
 Lorem ipsum.
 
+See some examples of my work:
+* [Should I go? Unpacking the faculty experiences leading to attrition](https://pod2022seattle.sched.com/event/1AeeT/should-i-go-unpacking-the-faculty-experiences-leading-to-attrition)
+
 {:.list-inline}
 - Where: UC Berkeley
 - What: Service
