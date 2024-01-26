@@ -11,6 +11,10 @@ caption:
 ---
 Lorem ipsum.
 
+See some examples of my work:
+* [Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
+
+
 {:.list-inline}
 - Where: UC Berkeley
 - What: Project
