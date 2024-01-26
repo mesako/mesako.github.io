@@ -7,7 +7,7 @@ alt:
 caption:
   title: Assessment Coaching
   subtitle: Inspiring Instructors to Think Differently
-  thumbnail: assets/img/portfolio/placeholderimage.jpg
+  thumbnail: assets/img/portfolio/speaking.jpg
 ---
 
 See some examples of my work:
