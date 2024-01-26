@@ -7,7 +7,7 @@ alt:
 caption:
   title: Thought Leadership
   subtitle: Digging into Assessment and Learning Topics
-  thumbnail: assets/img/portfolio/placeholderimage.jpg
+  thumbnail: assets/img/portfolio/presenting.jpg
 ---
 
 See some examples of my work:
