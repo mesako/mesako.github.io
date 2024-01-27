@@ -1,10 +1,10 @@
 ---
-title: Faculty Development Consulting in Alternative Grading Schema
+title: "Assessment Coaching: Inspiring Instructors to Grade Differently"
 subtitle: What does it mean to let go of traditions when we assess student learning?
 
 caption:
   title: Assessment Coaching
-  subtitle: Inspiring Instructors to Think Differently
+  subtitle: Inspiring Instructors to Grade Differently
   thumbnail: assets/img/portfolio/speaking.jpg
 ---
 
@@ -15,7 +15,6 @@ See some examples of my work:
 ["Revolutionizing Grading: Implications on Power, Agency, and Equity"](https://peer.asee.org/revolutionizing-grading-implications-on-power-agency-and-equity)
 
 {:.list-inline}
-- **What:** Service
 - **Collaborators:** [Peralta Community College District](https://www.peralta.edu/), [Searle Center at Northwestern University](https://searle.northwestern.edu/)
 - **Category:** Consulting, Faculty Development
 
