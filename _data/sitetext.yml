@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         icon: fas fa-chalkboard-user
       - title: "Advocate."
         desc: "My lived experiences motivate what I do. I infuse my work with equitable principles to improve outcomes for students with diverse racial/ethnic backgrounds, LGBTQIA+ identies, and disabilities among others."
-        icon: fas fa-hand-holding-hand
+        icon: fas fa-handshake-angle
 
   portfolio:
     title: "My Projects"
