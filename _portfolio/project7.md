@@ -1,8 +1,6 @@
 ---
 title: Large-scale Quantitative Data Visualizations
 subtitle: How can we make sense of data that is too large and complex to see?
-image: assets/img/portfolio/visualizing.png
-alt: 
 
 caption:
   title: Data Visualizations
