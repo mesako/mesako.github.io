@@ -1,5 +1,5 @@
 ---
-title: Learning Assessment: Analyzing Data at the Program-level
+title: "Learning Assessment: Analyzing Data at the Program-level"
 subtitle: How can we identify the strengths and weaknesses of a departmental curriculum?
 
 caption:
