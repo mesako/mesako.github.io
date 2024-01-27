@@ -1,13 +1,13 @@
 ---
 title: Presidential Chair Fellows Program
 subtitle: How do we encourage research inquiry into processes of teaching & learning?
-image: assets/img/portfolio/placeholderimage.jpg
+image: assets/img/portfolio/sotl.jpg
 alt: Image alt text
 
 caption:
   title: Scholarship of Teaching & Learning
   subtitle: Starting a Campus-wide Movement
-  thumbnail: assets/img/portfolio/placeholderimage.jpg
+  thumbnail: assets/img/portfolio/sotl.jpg
 ---
 
 See some examples of my work:
