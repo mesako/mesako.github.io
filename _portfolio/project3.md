@@ -8,8 +8,6 @@ caption:
   thumbnail: assets/img/portfolio/equity.jpg
 ---
 
-See some examples of my work:
-
 [DEI&A in Teaching and Learning Online Modules Grant from UCOP](https://www.ucop.edu/educational-innovations-services/programs-and-initiatives/ilti/funding/block-funding.html)
 
 ["Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy"](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
