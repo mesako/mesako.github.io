@@ -8,8 +8,6 @@ caption:
   thumbnail: assets/img/portfolio/visualizing.png
 ---
 
-See some examples of my work:
-
 ["Multi-omic single-cell snapshots reveal multiple independent trajectories to drug tolerance in a melanoma cell line"](https://www.nature.com/articles/s41467-020-15956-9)
 
 ["Deep profiling of apoptotic pathways with mass cytometry identifies a synergistic drug combination for killing myeloma cells"](https://www.nature.com/articles/s41418-020-0498-z)
