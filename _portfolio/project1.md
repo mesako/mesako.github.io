@@ -8,8 +8,6 @@ caption:
   thumbnail: assets/img/portfolio/assessment.png
 ---
 
-See some examples of my work:
-
 [Academic Program Review at UC Berkeley](https://vpap.berkeley.edu/academic-program-reviews/apr-staff-support-team)
 
 [Formative Assessment of Teaching Guide with Berkeley CTL](https://teaching.berkeley.edu/teaching-guides/assessing-learning/formative-assessment-teaching)
