@@ -1,13 +1,13 @@
 ---
 title: Comprehensive Evaluation of a Center for Teaching & Learning
 subtitle: How can we continuously improve our services and programs in faculty development?
-image: assets/img/portfolio/placeholderimage.jpg
+image: assets/img/portfolio/evaluation.png
 alt: 
 
 caption:
   title: Program Evaluation
   subtitle: Measuring the Work of a CTL
-  thumbnail: assets/img/portfolio/placeholderimage.jpg
+  thumbnail: assets/img/portfolio/evaluation.png
 ---
 
 See some examples of my work:
