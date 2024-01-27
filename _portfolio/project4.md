@@ -8,10 +8,7 @@ caption:
   thumbnail: assets/img/portfolio/grading.png
 ---
 
-See some examples of my work:
-
 Equitable Grading Approaches in STEM Courses
-
 
 {:.list-inline}
 - **Category:** Teaching
