@@ -1,5 +1,5 @@
 ---
-title: Large-scale Quantitative Data Visualizations
+title: "Data Visualizations: Empowering Quantitative Insights"
 subtitle: How can we make sense of data that is too large and complex to see?
 
 caption:
@@ -17,7 +17,6 @@ See some examples of my work:
 ["FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets"](https://www.nature.com/articles/s41596-019-0246-3)
 
 {:.list-inline}
-- **What:** Project
 - **Collaborators:** [VMware Women's Leadership Innovation Lab at Stanford University](https://womensleadership.stanford.edu/)
 - **Category:** Consulting, Research
 
