@@ -8,8 +8,6 @@ caption:
   thumbnail: assets/img/portfolio/speaking.jpg
 ---
 
-See some examples of my work:
-
 ["Notes from a Grading Skeptic" with Peralta Colleges](https://www.youtube.com/watch?v=YQubv_BnLjU)
 
 ["Revolutionizing Grading: Implications on Power, Agency, and Equity"](https://peer.asee.org/revolutionizing-grading-implications-on-power-agency-and-equity)
