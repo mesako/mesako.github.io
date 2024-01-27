@@ -1,13 +1,13 @@
 ---
 title: Academic Program Review
 subtitle: How can we identify the strengths and weaknesses of a departmental curriculum?
-image: assets/img/portfolio/placeholderimage.jpg
+image: assets/img/portfolio/assessment.png
 alt: Image alt text
 
 caption:
   title: Learning Assessment
   subtitle: Analyzing Data at the Program-level
-  thumbnail: assets/img/portfolio/placeholderimage.jpg
+  thumbnail: assets/img/portfolio/assessment.png
 ---
 
 See some examples of my work:
