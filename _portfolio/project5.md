@@ -1,5 +1,5 @@
 ---
-title: Comprehensive Evaluation of a Center for Teaching & Learning
+title: "Program Evaluation: Measuring the Work of a CTL"
 subtitle: How can we continuously improve our services and programs in faculty development?
 
 caption:
@@ -15,6 +15,4 @@ See some examples of my work:
 ["Should I go? Unpacking the faculty experiences leading to attrition"](https://pod2022seattle.sched.com/event/1AeeT/should-i-go-unpacking-the-faculty-experiences-leading-to-attrition)
 
 {:.list-inline}
-- **Where:** UC Berkeley
-- **What:** Service
 - **Category:** Faculty Development
