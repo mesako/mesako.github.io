@@ -1,15 +1,18 @@
 ---
-title: Equitable Grading Approaches in STEM Courses
+title: "Alternative Grading: Designing Innovative Course Assessment"
 subtitle: How do we value student work in a way that promotes equitable learning?
 
 caption:
   title: Alternative Grading
-  subtitle: Designing Innovative Course Assessments
+  subtitle: Designing Innovative Course Assessment
   thumbnail: assets/img/portfolio/grading.png
 ---
 
+See some examples of my work:
+
+Equitable Grading Approaches in STEM Courses
+
+
 {:.list-inline}
-- **Where:** Foothill College
-- **What:** Courses
 - **Category:** Teaching
 
