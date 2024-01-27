@@ -1,5 +1,5 @@
 ---
-title: Presidential Chair Fellows Program
+title: "Scholarship of Teaching & Learning: Starting a Campus-wide Movement"
 subtitle: How do we encourage research inquiry into processes of teaching & learning?
 
 caption:
@@ -16,7 +16,5 @@ See some examples of my work:
 
 
 {:.list-inline}
-- **Where:** UC Berkeley
-- **What:** Project
 - **Collaborators:** [Specific Departments](https://teaching.berkeley.edu/programs/presidential-chair-fellows-grant-program)
 - **Category:** Research, Faculty Development
