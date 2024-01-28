@@ -9,7 +9,7 @@ en: &DEFAULT_EN
       section: services
     - title: "My Projects"
       section: portfolio
-    - title: "My Experiences"
+    - title: "My Background"
       section: timeline
     - title: "Let's Connect"
       section: team
