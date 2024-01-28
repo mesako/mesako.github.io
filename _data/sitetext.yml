@@ -40,7 +40,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "My Experiences"
+    title: "My Background"
     text: "My professional roles have spanned research, teaching, and adminstration."
     section: timeline
     # left is the default
