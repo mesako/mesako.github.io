@@ -19,7 +19,7 @@ baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : "Melissa E. Ko, PhD"
 email      : "mesako@berkeley.edu" #this is also the email contact forms will go to
-description: "Lorem ipsum"
+description: "Assessment practitioner and educational developer"
 author     : "Melissa Ko"
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -28,7 +28,7 @@ author     : "Melissa Ko"
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: "G-BS1QTBHBE4"
 
 collections:
   portfolio:
