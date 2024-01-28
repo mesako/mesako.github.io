@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Privacy Policy
+title: About this Page
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">About this Page</h2>
 </div>
+
+Credit for header image: DarwinPeacock, Maklaan, CC BY 3.0 (https://commons.wikimedia.org/w/index.php?curid=37438920).
+
+The template for this web page was created by [Ravi](https://github.com/raviriley) and is available here: (https://github.com/raviriley/agency-jekyll-theme).
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
 
