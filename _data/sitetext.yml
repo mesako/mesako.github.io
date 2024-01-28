@@ -89,7 +89,7 @@ en: &DEFAULT_EN
     # text: "Lorem ipsum dolor sit amet consectetur."
     section: team
     people:
-      - name: "Melissa E. Ko"
+      - name: "Dr. Melissa E. Ko"
         role: "Assessment & Curriculum Design Specialist"
         image: assets/img/web-headshot.jpg
         social:
