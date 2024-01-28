@@ -101,7 +101,8 @@ en: &DEFAULT_EN
             icon: fab fa-github
 
   footer:
-    legal: "Privacy Policy"
+    text: "Credit for header image: By DarwinPeacock, Maklaan, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=37438920"
+    # legal: "Privacy Policy"
 
 en-US:
   <<: *DEFAULT_EN
