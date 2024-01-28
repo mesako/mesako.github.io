@@ -20,7 +20,7 @@
   > li {
     position: relative;
     min-height: 50px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     &:after,
     &:before {
       display: table;
@@ -110,11 +110,11 @@
     }
     > li {
       min-height: 100px;
-      margin-bottom: 50px;
+      margin-bottom: 10px;
       .timeline-panel {
         float: left;
         width: 41%;
-        padding: 0 20px 20px 30px;
+        padding: 0 10px 10px 20px;
         text-align: right;
       }
       .timeline-image {
@@ -141,7 +141,7 @@
     > li {
       min-height: 150px;
       .timeline-panel {
-        padding: 0 20px 20px;
+        padding: 0 10px 10px;
       }
       .timeline-image {
         width: 150px;
@@ -165,7 +165,7 @@
       font-size: 18px;
       min-height: 170px;
       .timeline-panel {
-        padding: 0 20px 20px 100px;
+        padding: 0 10px 10px 50px;
       }
       .timeline-image {
         width: 170px;
