@@ -15,9 +15,7 @@ en: &DEFAULT_EN
     title: "Assessment practitioner and educational developer advancing data-driven, equity-minded culture in higher education."
 #    title: "Assessment & Curriculum Design Specialist at UC Berkeley"
     text: "Melissa E. Ko, PhD"
-    button: "Learn about my work"
-    buttonlink: "#portfolio"
-    button: "Download my CV"
+    button: "Check out my CV"
     buttonlink: "https://mesako.github.io/assets/pdf/Ko%20-%20CV%20-%20Current.pdf"
 
   services:
