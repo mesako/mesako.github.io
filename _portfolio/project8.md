@@ -8,7 +8,7 @@ caption:
   thumbnail: assets/img/portfolio/speaking.jpg
 ---
 
-[All In: Understanding and Motivating Stakeholders to Create an Equitable Culture of Student Success](https://www.lifescied.org/doi/full/10.1187/cbe.24-02-0065)
+["All In: Understanding and Motivating Stakeholders to Create an Equitable Culture of Student Success"](https://www.lifescied.org/doi/full/10.1187/cbe.24-02-0065)
 
 ["Notes from a Grading Skeptic" with Peralta Colleges](https://www.youtube.com/watch?v=YQubv_BnLjU)
 
