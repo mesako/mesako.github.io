@@ -10,7 +10,7 @@ caption:
 
 [Academic Program Review at UC Berkeley](https://vpap.berkeley.edu/academic-program-reviews/apr-staff-support-team)
 
-[Formative Assessment of Teaching Guide with Berkeley CTL](https://teaching.berkeley.edu/teaching-guides/assessing-learning/formative-assessment-teaching)
+[Formative Assessment of Teaching Guide with Berkeley CTL](https://teaching.berkeley.edu/teaching-strategies/teaching-your-course/formative-assessment-teaching)
 
 {:.list-inline}
 - **Collaborators:** [Division of Academic Planning](https://vpap.berkeley.edu/)
