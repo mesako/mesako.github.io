@@ -8,6 +8,8 @@ caption:
   thumbnail: assets/img/portfolio/presenting.png
 ---
 
+[Our Teaching Excellence: Effective Teaching as an Inherently Collective Endeavor to Enhance Student Learning"](https://uen.pressbooks.pub/documentingteachingexcellence/chapter/our-teaching-excellence-effective-teaching-as-an-inherently-collective-endeavor-to-enhance-student-learning/)
+
 ["Dispatches from the Interface: Assessment Professionals in the CTL"](https://journals.psu.edu/td/article/view/1831)
 
 ["Broadening Participation in Biology Education Research: A role for affinity groups in promoting social connectivity, self-efficacy, and belonging"](https://www.lifescied.org/doi/full/10.1187/cbe.23-01-0004)
