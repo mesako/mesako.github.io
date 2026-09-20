@@ -8,7 +8,7 @@ caption:
   thumbnail: assets/img/portfolio/assessment.png
 ---
 
-[Academic Program Review at UC Berkeley](https://vpap.berkeley.edu/academic-program-reviews/apr-staff-support-team)
+[Academic Program Review at UC Berkeley](https://teaching.berkeley.edu/resources/academic-program-review-apr)
 
 [Formative Assessment of Teaching Guide with Berkeley CTL](https://teaching.berkeley.edu/teaching-strategies/teaching-your-course/formative-assessment-teaching)
 
