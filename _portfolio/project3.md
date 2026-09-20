@@ -10,7 +10,7 @@ caption:
 
 [UC Professional Development Modules for Teaching Excellence funded from UCOP](https://sites.google.com/ucr.edu/ucctls/collective-projects/pd-teaching-modules)
 
-["Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy"](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
+["Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy"](https://podnetwork.org/updates-events/46th-annual-conference-dev-landing-page/)
 
 [Effective Pedagogy for All Students (previously IDEAL Pedagogy Program) with Stanford CTL](https://ctl.stanford.edu/faculty-lecturers/pedagogy/effective-pedagogy-course)
 
