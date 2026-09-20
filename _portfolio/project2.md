@@ -14,5 +14,5 @@ caption:
 
 
 {:.list-inline}
-- **Collaborators:** [Specific Departments](https://teaching.berkeley.edu/programs/presidential-chair-fellows-grant-program)
+- **Collaborators:** [Specific Instructor Fellows](https://teaching.berkeley.edu/programs/presidential-chair-fellows-grant-program/pcf-fellows)
 - **Category:** Research, Faculty Development
