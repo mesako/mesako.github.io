@@ -11,16 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-#    title: "This website is under construction."
-    title: "Assessment practitioner and educational developer advancing data-driven, equity-minded culture in higher education."
-#    title: "Assessment & Curriculum Design Specialist at UC Berkeley"
+    title: "Bridging assessment and educational development to advance data-driven, equity-minded culture in higher education."
     text: "Melissa E. Ko, PhD"
     button: "Check out my CV"
     buttonlink: "https://mesako.github.io/assets/pdf/Ko%20-%20CV%20-%20Current.pdf"
 
   services:
     title: "What I Do"
-    # text: "Lorem ipsum dolor sit amet consectetur."
     section: services
     list:
       - title: "Analyst."
@@ -41,7 +38,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "My Background"
-    text: "My professional roles have spanned research, teaching, and adminstration."
+    text: "My professional roles have spanned research, teaching, and administration."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -90,7 +87,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Dr. Melissa E. Ko"
-        role: "Assessment & Curriculum Design Specialist"
+        role: "Educational Research & Assessment Lead"
         image: assets/img/web-headshot.jpg
         social:
           - url: "mailto:mesako@berkeley.edu"
