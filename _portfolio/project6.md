@@ -8,7 +8,7 @@ caption:
   thumbnail: assets/img/portfolio/presenting.png
 ---
 
-[Our Teaching Excellence: Effective Teaching as an Inherently Collective Endeavor to Enhance Student Learning"](https://uen.pressbooks.pub/documentingteachingexcellence/chapter/our-teaching-excellence-effective-teaching-as-an-inherently-collective-endeavor-to-enhance-student-learning/)
+["Our Teaching Excellence: Effective Teaching as an Inherently Collective Endeavor to Enhance Student Learning"](https://uen.pressbooks.pub/documentingteachingexcellence/chapter/our-teaching-excellence-effective-teaching-as-an-inherently-collective-endeavor-to-enhance-student-learning/)
 
 ["Dispatches from the Interface: Assessment Professionals in the CTL"](https://journals.psu.edu/td/article/view/1831)
 
