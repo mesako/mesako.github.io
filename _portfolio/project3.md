@@ -8,7 +8,7 @@ caption:
   thumbnail: assets/img/portfolio/equity.jpg
 ---
 
-[DEI&A in Teaching and Learning Online Modules Grant from UCOP](https://www.ucop.edu/educational-innovations-services/programs-and-initiatives/ilti/funding/block-funding.html)
+[UC Professional Development Modules for Teaching Excellence funded from UCOP](https://sites.google.com/ucr.edu/ucctls/collective-projects/pd-teaching-modules)
 
 ["Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy"](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
 
