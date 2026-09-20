@@ -19,5 +19,5 @@ caption:
 [Course Design Equity and Inclusion Rubric with Stanford Bioengineering Department](https://bit.ly/course-equity-rubric)
 
 {:.list-inline}
-- **Collaborators:** [UCSB OTL](https://otl.ucsb.edu/), [UCI DTEI](https://dtei.uci.edu/), and [UC Online](https://www.ucop.edu/educational-innovations-services/programs-and-initiatives/index.html)
+- **Collaborators:** [UCSB OTL](https://otl.ucsb.edu/), [UCI DTEI](https://dtei.uci.edu/), and [UC Online](https://www.ucop.edu/uc-online/programs-and-initiatives/about.html)
 - **Category:** Faculty Development, Research
