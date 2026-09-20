@@ -12,7 +12,7 @@ caption:
 
 ["Meeting Instructors Where They Are: Professional Development Pathways in Inclusive Pedagogy"](https://podconference2021.sched.com/event/p8ms/meeting-instructors-where-they-are-professional-development-pathways-in-inclusive-pedagogy)
 
-[IDEAL Pedagogy Program with Stanford CTL](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/ideal-pedagogy)
+[Effective Pedagogy for All Students (previously IDEAL Pedagogy Program) with Stanford CTL](https://ctl.stanford.edu/faculty-lecturers/pedagogy/effective-pedagogy-course)
 
 [Teaching Practices Equity and Inclusion Rubric with Stanford CTL](https://bit.ly/teaching-equity-rubric)
 
